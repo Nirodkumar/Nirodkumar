@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirodkumar
 - 👀 I’m interested in data visualization and data analitics
-- 🌱 I’m currently learning MSc. in business analytics
+- 🌱 I’m currently studying MSc. in business analytics
 - 📫 How to reach me nirodkumar60@gmail.com
 
 <!---
